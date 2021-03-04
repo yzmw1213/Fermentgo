@@ -46,8 +46,9 @@
 5. SPAを採用している
 6. TypeScriptを使い、型を制御している
 7. linter, eslintを使っている
-8. issueとプルリクエストを活用している
-9. CircleCIでDockerfileのビルドを行い、本番環境を自動で更新している
+8. AWSインフラをコード化している
+9. issueとプルリクエストを活用している
+10. CircleCIでDockerfileのビルドを行い、本番環境を自動で更新している
 
 ## 関連レポジトリ
 - [フロントエンド](https://github.com/yzmw1213/Front)
